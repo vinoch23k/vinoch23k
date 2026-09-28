@@ -19,4 +19,21 @@ Learning Java, Spring Boot and React · Building useful projects
 - Currently learning: Spring Boot APIs
 - Current project: Products API
 
+
+## 🛠 Featured Projects
+
+| Project | What it does |
+|---|---|
+| [Products API](https://github.com/YOUR_USERNAME/YOUR_REPO) | A REST API built with Spring Boot |
+| [Fashion Flair](https://github.com/YOUR_USERNAME/YOUR_REPO) | A boutique management system built with Java and MySQL |
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
 </details>
