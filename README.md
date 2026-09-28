@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vinoch23k/vinoch23k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SELVARAJAN AYNKARAN
 
-Here are some ideas to get you started:
+Learning Java, Spring Boot and React · Building useful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+
+</div>
+
+<details>
+<summary>More about me</summary>
+
+- Currently learning: Spring Boot APIs
+- Current project: Products API
+
+</details>
